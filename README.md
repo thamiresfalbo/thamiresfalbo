@@ -3,15 +3,13 @@
 ![](https://media.giphy.com/media/3o7TKN5pYEFzEqfcXu/giphy.gif)
 
 
-❖
-[Bitbucket](https://bitbucket.org/thamiresfalbo/)
+
 ❖
 [Polywork](https://www.polywork.com/thamiresfalbo)
 ❖
 [LinkedIn](https://www.linkedin.com/in/thamiresfalbo)
 ❖
-[Dev.to](https://dev.to/thamiresfalbo)
-❖
+
 </div>
 
 ---
