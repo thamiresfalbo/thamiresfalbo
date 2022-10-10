@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://media.giphy.com/media/3o7TKN5pYEFzEqfcXu/giphy.gif)
+![](https://media.giphy.com/media/9PgseUGIG7YfmNcuU3/giphy-downsized-large.gif)
 
 
 
