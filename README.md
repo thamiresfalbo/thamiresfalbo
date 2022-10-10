@@ -1,8 +1,6 @@
 <div align="center">
 
-![](https://media.giphy.com/media/9PgseUGIG7YfmNcuU3/giphy-downsized-large.gif)
-
-
+![](https://media.giphy.com/media/wMhe3bzsa1I40/giphy.gif)
 
 ❖
 [Polywork](https://www.polywork.com/thamiresfalbo)
