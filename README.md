@@ -7,7 +7,8 @@
 ❖
 [LinkedIn](https://www.linkedin.com/in/thamiresfalbo)
 ❖
-
+[Dev.to](https://dev.to/thamiresfalbo)
+❖
 </div>
 
 ---
