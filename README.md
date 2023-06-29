@@ -1,16 +1,7 @@
 <div align="center">
 
-![](https://media.giphy.com/media/hA5daWGWG1G6c/giphy.gif)
+# ❖ Moved to [Gitlab](https://gitlab.com/thamiresfalbo) ❖
 
-❖
-[Polywork](https://www.polywork.com/thamiresfalbo)
-❖
-[LinkedIn](https://www.linkedin.com/in/thamiresfalbo)
-❖
-[Dev.to](https://dev.to/thamiresfalbo)
-❖
-[Gitlab](https://gitlab.com/thamiresfalbo)
-❖
 </div>
 
 ---
