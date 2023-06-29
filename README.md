@@ -9,6 +9,8 @@
 ❖
 [Dev.to](https://dev.to/thamiresfalbo)
 ❖
+[Gitlab](https://gitlab.com/thamiresfalbo)
+❖
 </div>
 
 ---
