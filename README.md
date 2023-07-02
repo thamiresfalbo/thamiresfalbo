@@ -1,5 +1,9 @@
 <div align="center">
 
-# ❖ Moved to [Gitlab](https://gitlab.com/thamiresfalbo) ❖
+![](https://media.giphy.com/media/26gJz5dfC3FchgTXa/giphy.gif)
+
+❖
+[LinkedIn](https://www.linkedin.com/in/thamiresfalbo)
+❖
 
 </div>
