@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 ![](/mononoke.gif)
 
@@ -6,4 +6,4 @@
 •
 [Linkedin](https://linkedin.com/in/thamiresfalbo)
 
-</center>
+</div>
